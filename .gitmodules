@@ -1,0 +1,6 @@
+[submodule "chinesename"]
+	path = chinesename
+	url = https://github.com/Andy-Elizabeth-mouse/chinesename.git
+[submodule "bigram"]
+	path = bigram
+	url = https://github.com/Andy-Elizabeth-mouse/BigramBased-PhraseGeneration.git
